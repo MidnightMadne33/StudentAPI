@@ -1,0 +1,19 @@
+.page-5 .content {
+  display: inline-block;
+  margin-top: 20vh;
+  margin-left: 13vw;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+.page-5 .content h3 {
+  font-size: 30vh;
+  margin: 0;
+  color: black;
+}
+
+.page-5 .content p {
+  text-align: right;
+  font-size: 4vh;
+  margin-top: 10vw;
+  color: black;
+}

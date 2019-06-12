@@ -1,0 +1,39 @@
+.page-1 {
+  position: relative;
+  height: 100vh;
+  background: url("../images/backgroundImages/background1.jpg")
+    no-repeat top fixed;
+  background-size: cover;
+}
+
+.page-2{
+  position: relative;
+  height: 100vh;
+  background: url("../images/backgroundImages/background2.jpg")
+    no-repeat top fixed;
+  background-size: cover;
+}
+
+.page-3{
+  position: relative;
+  height: 100vh;
+  background: url("../images/backgroundImages/background3.jpg")
+    no-repeat top fixed;
+  background-size: cover;
+}
+
+.page-4{
+  position: relative;
+  height: 100vh;
+  background: url("../images/backgroundImages/background4.jpg")
+    no-repeat top fixed;
+  background-size: cover;
+}
+
+.page-5{
+  position: relative;
+  height: 100vh;
+  background: url("../images/backgroundImages/background5.jpg")
+    no-repeat top fixed;
+  background-size: cover;
+}

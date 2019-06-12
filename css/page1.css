@@ -1,0 +1,54 @@
+.page-1 .content {
+  display: inline-block;
+  margin-top: 42vh;
+  margin-left: 17vw;
+  vertical-align: middle;
+}
+
+.page-1 .content h2 {
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 12vh;
+  margin: 0;
+  color: white;
+}
+
+.page-1 .content h5 {
+  padding-left: 3vw;
+  font-family: 'Oswald', sans-serif;
+  font-size: 4vh;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.social-links {
+  display: inline-block;
+}
+
+.social-links a {
+  display: inline-block;
+  font-size: 3rem;
+}
+
+.fb, .insta, .git, .ld {
+  position: absolute;
+}
+
+.fb {
+  top: 50vh;
+  left: 10vw;
+}
+
+.git {
+  top: 50vh;
+  left: 35vw;
+}
+
+.insta {
+  top: 70vh;
+  left: 28vw;
+}
+
+.ld {
+  top: 70vh;
+  left: 17vw;
+}
